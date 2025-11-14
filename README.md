@@ -1,7 +1,6 @@
 # Markov Chain Text Generator
 ProDigy Infotech Internship – Task 3  
-Author: Pranay Phepade
-
+Author: soham phadnis
 --------------------------------------------
 
 ## Project Overview
